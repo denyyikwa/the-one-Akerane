@@ -1,20 +1,20 @@
-# Keep EOLs consistent
+# # Keep EOLs consistent
 
-* text=auto
+# * text=auto
 
-*.java          text
-*.txt           text
-*.md            text
-*.bat           text
-*.sh            text
-*.pl            text
-*.pm            text
-*.py            text
+# *.java          text
+# *.txt           text
+# *.md            text
+# *.bat           text
+# *.sh            text
+# *.pl            text
+# *.pm            text
+# *.py            text
 
-# Windows batch files should retain CRLF
-*.bat           text eol=crlf
+# # Windows batch files should retain CRLF
+# # *.bat           text eol=crlf
 
-*.class         binary
-*.gif           binary
-*.png           binary
-*.jar           binary
+# *.class         binary
+# *.gif           binary
+# *.png           binary
+# *.jar           binary
