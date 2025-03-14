@@ -10,4 +10,5 @@ if %errorlevel% neq 0 (
 )
 
 :: Jalankan one.bat untuk menjalankan simulasi DTN
+:: call one.bat -b 1 config/epidemic_settings.txt
 call one.bat -b 1 config/epidemic_settings.txt
